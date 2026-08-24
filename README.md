@@ -2,8 +2,8 @@
 
 ## Table of contents
 1. [Business Problem](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance.git#business-problem)
-2. [Project Overview](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance/README.md#project-overview)
-3. [Data Overview](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#data-overview)  
+2. [Project Overview](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance.git#project-overview)
+3. [Data Overview](https://github.com/Mohammad1107bha/SQL-Analytics-for-Elevating-ShopMart-Inventory-Management-and-Quality-Assurance.git#data-overview)  
  
 	a. [Entity Relationship Diagram (ERD)](https://github.com/Pralhad789/SQL-Analytics-for-Ecommerce-Success-Optimizing-Sales-and-Customer-Journeys/blob/main/README.md#erd-diagram)  
 
